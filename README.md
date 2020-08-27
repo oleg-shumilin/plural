@@ -1,5 +1,5 @@
 # Plural
-![license](https://img.shields.io/github/license/oleg-shumilin/plural) 
+![license](https://img.shields.io/github/license/oleg-shumilin/plural) ![release](https://img.shields.io/github/v/release/oleg-shumilin/plural)
 
 Plural is a library for converting singular to plural nouns.
 ##Transformation rules
