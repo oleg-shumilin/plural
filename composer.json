@@ -1,0 +1,26 @@
+{
+  "name": "oleg-shumilin/plural",
+  "description": "Plural is a library for converting singular to plural nouns.",
+  "keywords": [
+    "plural",
+    "vowel",
+    "consonant",
+    "transform"
+  ],
+  "homepage": "https://github.com/oleg-shumilin/plural",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "O.P.Shumilin",
+      "email": "ops1@tpu.ru"
+    }
+  ],
+  "support": {
+    "email": "ops1@tpu.ru"
+  },
+  "autoload": {
+    "psr-4": {
+      "Plural\\": "src"
+    }
+  }
+}
